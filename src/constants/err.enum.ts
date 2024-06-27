@@ -1,0 +1,16 @@
+export enum ErrorMessage {
+  CONFIRM_PASSWORD_CONSTRAINT = 'Password must match!',
+  EMAIL_CONSTRAINT = 'It must be a valid e-mail address! e.g: my@mail.com',
+  EMAIL_EXISTS = 'This E-mail already exists!',
+  PASSWORD_CONSTRAINT = 'Password must be at least 8 characters long!',
+  FIRST_NAME_CONSTRAINT = 'It must include your first name! e.g: John',
+  LAST_NAME_CONSTRAINT = 'It must include your last name! e.g: Smith',
+  PHONE_CONSTRAINT = 'It must be a proper phone number',
+  WRONG_CREDENTIALS = 'The E-mail or Password is wrong!',
+  ITEM_NAME = 'The name must not be empty!',
+  MEDICINE_CONCENTRATION = 'The concentration must not be empty!',
+  NUMBER_OF_STRIPS = 'The number of strips must not be empty!',
+  NUMBER_OF_Pills = 'The number of pills must not be empty!',
+  QUANTITY = 'The quantity must not be empty!',
+  ITEM_IMAGE = 'An image must be uploaded!',
+}

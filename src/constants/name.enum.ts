@@ -1,0 +1,16 @@
+export enum Name {
+  EMAIL = 'email',
+  PASSWORD = 'password',
+  CURRENT_PASSWORD = 'currentPassword',
+  CONFIRM_PASSWORD = 'confirmPassword',
+  FIRST_NAME = 'firstName',
+  LAST_NAME = 'lastName',
+  PHONE = 'phone',
+  ADDRESS = 'address',
+  ITEM_NAME = 'itemName',
+  MEDICINE_CONCENTRATION = 'medicineConcentration',
+  MEDICINE_STIRPS = 'numberOfStrips',
+  MEDICINE_PILLS = 'numberOfPills',
+  MEDICINE_QUANTITY = 'quantity',
+  EXPIRATION_DATE = 'expirationDate',
+}

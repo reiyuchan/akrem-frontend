@@ -1,0 +1,17 @@
+export enum Label {
+  EMAIL = 'E-mail',
+  PASSWORD = 'Password',
+  CURRENT_PASSWORD = 'Current Password',
+  CONFIRM_PASSWORD = 'Confirm Password',
+  FIRST_NAME = 'First Name',
+  LAST_NAME = 'Last Name',
+  PHONE_NUMBER = 'Phone Number',
+  AGREE_TO_TERMS = 'I agree to terms & conditions.',
+  INQUIRY = 'Inquiry',
+  ITEM_NAME = 'Item Name',
+  MEDICINE_CONCENTRATION = 'Medicine Concentration',
+  EXPIRATION_DATE = 'Expiration Date',
+  NUMBER_OF_STRIPS = 'Number of Strips',
+  NUMBER_OF_Pills = 'Number of Pills',
+  QUANTITY = 'Quantity',
+}
