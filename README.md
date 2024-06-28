@@ -1,5 +1,17 @@
 # Akrem frontend
 
+## Language
+-  TypeScript
+
+## Tools
+-  Nextjs (Reactjs)
+-  TailwindCSS
+-  Jotai
+-  Axios
+-  React Query
+-  Zod
+-  React Hook Form
+
 ## Getting Started
 
 First, run the development server:
